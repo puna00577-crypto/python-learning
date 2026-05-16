@@ -1,2 +1,2 @@
-# go-learning
-Go's repository for learnig
+# Python-learning
+Python's repository for learnig
